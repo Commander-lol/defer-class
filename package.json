@@ -1,0 +1,15 @@
+{
+  "name": "defer-class",
+  "version": "1.0.0",
+  "description": "Deferred Promise Class",
+  "main": "defer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promises",
+    "defer"
+  ],
+  "author": "Louis Capitanchik <contact@louiscap.co>",
+  "license": "BSD-3-Clause"
+}
